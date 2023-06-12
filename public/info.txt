@@ -1,0 +1,40 @@
+1. Category -
+2. Unique Id -
+3. Course Name -
+
+4. Course Front Page Description - Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since
+
+5. Course Point Details 1 - 6 months training
+
+6. Course Point Details 2 - 30k+ students trained
+
+7. Course Point Details 3 - Professional Certification
+
+8. Course Back Page Description - WS-CEH Ethical Hacking Certification Course will equip you with the latest hacking methodologies, tools, advanced techniques, and skills required to become a professional ethical hacker.
+
+This is an online ethical hacking training with regular LIVE CLASSES by an expert trainer. During the entire course, you will learn how to prevent black hat hackers from compromising systems, networks, and devices, leading to major cyberattacks and data breaches.
+
+9. Course Fees -
+
+10. Course Certificate Description - The online ethical hacking certification course by WsCube Tech helps you learn all aspects of ethical hacking from scratch. You don’t need to have any prior experience in cybersecurity to acquire these skills.
+
+This course covers all the concepts (from beginner to advanced), including computing networking attacks, enumeration, malware, ransomware, phishing, attack vectors, vulnerabilities, DoS/DDoS attacks, social engineering, footprinting, sniffing, and much more. You will get to work on tools and set up an ethical hacking lab for practice.
+
+Our ethical hacking online course also contains professional certification and job assistance, helping you to find high-paying career opportunities. You can become a Security Analyst, Cybersecurity Expert, Network Security Administrator, Cybersecurity Consultant, IT Security Manager, and work on several other roles.
+
+11. Why Learn Details 1 -Our ethical hacking full course is led by an expert trainer having years of experience in the field. All topics are covered in-depth and in an easy-to-learn way.
+
+12. Why Learn Details 2 -
+13. Why Learn Details 3 -
+14. Why Learn Details 4 -
+15. Why Learn Details 5 -
+16. Why Learn Details 6 -
+
+17. Faq's Answer 1 - Ethical hacking is the practice of hacking a system or network to improve its security. The role of ethical hacking is to detect vulnerabilities that hackers can use for malicious purposes like stealing data, causing financial loss, or other damages.
+
+18. Faq's Answer 2 -
+19. Faq's Answer 3 -
+20. Faq's Answer 4 -
+21. Faq's Answer 5 -
+22. Faq's Answer 6 -
+23. Course Image -

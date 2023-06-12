@@ -1,0 +1,45 @@
+.bgcolor.scrolled {
+    background-color: black;
+    transition: 0.8s ease;
+    z-index: 1000000;
+}
+
+.bgcolorsd.scrolled {
+    background-color: white;
+    transition: 0.8s ease;
+    z-index: 1000000;
+    box-shadow: 0 4px 2px -2px gray;
+}
+
+
+@font-face {
+    font-family: 'roboto';
+    src: url(../assets/fonts/Roboto-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'rooster';
+    src: url(../assets/fonts/MagmaWave\ Caps.otf);
+}
+
+nav .logo h2 {
+    font-family: 'rooster';
+}
+
+body {
+    font-family: 'roboto';
+    overflow-x: hidden;
+}
+
+.sticky-section {
+    top: 68px;
+    z-index: 100000;
+}
+
+.single-card {
+    z-index: 100000;
+}
+
+.features-image-section .svg-section {
+    border-radius: 80px 30px 80px 0px;
+}
